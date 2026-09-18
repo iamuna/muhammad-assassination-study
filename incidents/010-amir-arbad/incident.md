@@ -1,50 +1,15 @@
-# INC-010 — ʿĀmir ibn al-Ṭufayl and Arbad
+# INC-010 — ʿĀmir b. al-Ṭufayl and Arbad b. Qays
 
-## Status
-Unreviewed.
+## Provisional conclusion
+Ibn Isḥāq/Ibn Hishām reports that ʿĀmir came intending treachery and told Arbad that he would distract Muhammad while Arbad struck him with a sword. A more elaborate Ibn ʿAbbās version survives through al-Ṭabarānī, but that route contains ʿAbd al-ʿAzīz b. ʿImrān and is not strong.
 
-## Research question
-What is the strongest historically supportable reconstruction of this incident, and does it meet the project's definition of an assassination attempt?
-
-## Core propositions
-_To be decomposed into atomic Claim IDs after primary-source collection._
-
-## Primary evidence
-_Not yet entered._
-
-## Transmission families
-_Not yet mapped._
-
-## Variants
-_Not yet entered._
-
-## Contradictions / counter-evidence
-_Not yet entered._
-
-## Chronology and context
-_Not yet entered._
+The basic assassination plot is therefore supported primarily by the sīrah stream, with later expanded corroboration of limited isnād strength.
 
 ## Classification
-- Direct assault:
-- Assassination conspiracy:
-- Attempted assassination:
-- Battlefield action:
-- General persecution:
-- Duplicate/misclassified:
-- Undetermined: yes
-
-## Grading
-No provisional grade until source audit.
-
-## Challenge questions
-- What is the earliest recoverable form of the report?
-- Are apparently multiple attestations actually dependent?
-- What details appear only in later expansions?
-- Is murderous intent explicit, inferred, or absent?
-- Is there a plausible non-assassination classification?
-- Does any stronger evidence contradict the report?
-- Are chronology/geography/person-identifications stable?
-- What would cause us to downgrade or reject this incident?
+- Assassination conspiracy: **H4**
+- Overt attempt (Arbad reaches for/draws sword in expanded form): **H5**
+- Exact supernatural paralysis mechanism: **H6**
+- Later deaths by disease/lightning: separate claims.
 
 ## Narrative permission
-Not assigned.
+NP-3 for the plot; NP-4 for the expanded sword/paralysis scene.
