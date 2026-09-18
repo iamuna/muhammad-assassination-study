@@ -26,6 +26,11 @@ The exact edition identity was verified from the user-supplied title page and fr
   SHA-256: `8e8625d540e425b9b6264320dea83168490cfeb2a8c2bd99dfed8a53e638a1cf`
 - `00_54495.pdf` — cover image for the Dār Ṭawq al-Najāh edition — 1 page  
   SHA-256: `c086e25bf230ccfa25c9dcad4ecd480785c05395682bb84148cd319d85625206`
+
+- `01_54495(1).pdf` — opening main-text component, covering the beginning of the work through hadith 875 — 189 pages  
+  SHA-256: `8e8625d540e425b9b6264320dea83168490cfeb2a8c2bd99dfed8a53e638a1cf`
+- `00_54495.pdf` — cover image for the Dār Ṭawq al-Najāh edition — 1 page  
+  SHA-256: `c086e25bf230ccfa25c9dcad4ecd480785c05395682bb84148cd319d85625206`
 - `02_54496.pdf` — coverage metadata: books 11–25, hadith 876–1772 — 197 pages  
   SHA-256: `d2515bafcd12ecc9464d37c71984ff2e36fffe72a6fb917c5007797687389911`
 - `03_54504.pdf` — coverage metadata: books 26–54, hadith 1773–2737 — 218 pages  
