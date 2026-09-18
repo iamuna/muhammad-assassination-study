@@ -21,9 +21,10 @@ IBN ʿABBĀS
 └── ʿIkrimah
     └── Hilāl b. Khabbāb
         └── ʿAbbād b. al-ʿAwwām
-            ├── Aḥmad
+            ├── Shurayḥ → Aḥmad 2784 (SRC-HAD-AHM-E01, vol. 5, p. 6)
             └── Ibn Saʿd parallel
                 CORE: woman + poisoned sheep + motive + recurrent effects
+                VERIFIED EDITORIAL NOTE: report ṣaḥīḥ li-ghayrihi; this isnād ḥasan
 
 JĀBIR b. ʿABD ALLĀH
 └── [reported via] al-Zuhrī
@@ -75,8 +76,12 @@ Even after collapsing dependencies, the poisoning core is preserved through mate
 
 This is why the core receives a much stronger assessment than details known only from one narrative expansion.
 
+## Exact-edition progress
+- Aḥmad 2784 is now locked to SRC-HAD-AHM-E01, vol. 5, p. 6.
+- The editor's exact judgment is preserved: **ṣaḥīḥ li-ghayrihi; this isnād ḥasan**.
+
 ## Pending work
-- edition-lock all chains;
+- edition-lock remaining chains;
 - narrator-by-narrator assessment;
 - establish exact stemmatic relationship of Abū Salamah mursal and connected forms;
 - compare Ibn Isḥāq wording across editions;
