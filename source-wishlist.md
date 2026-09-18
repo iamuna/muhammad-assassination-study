@@ -14,16 +14,16 @@ Please obtain **lawfully accessible scans/PDFs of these exact editions when poss
 1. **Ṣaḥīḥ al-Bukhārī** — ed. Muḥammad Zuhayr b. Nāṣir al-Nāṣir, Dār Ṭawq al-Najāh, 1st ed., 1422 AH, 9 vols.
 2. **Ṣaḥīḥ Muslim** — ed. Muḥammad Fuʾād ʿAbd al-Bāqī, Dār Iḥyāʾ al-Turāth al-ʿArabī, Beirut, 5 vols.
 3. **Musnad Aḥmad** — ed. Shuʿayb al-Arnaʾūṭ, ʿĀdil Murshid et al., supervision ʿAbd Allāh al-Turkī, Muʾassasat al-Risālah, 1st ed., 1421/2001.
-4. **Sunan Abī Dāwūd** — ed. Shuʿayb al-Arnaʾūṭ and Muḥammad Kāmil Qarah Ballī, Dār al-Risālah al-ʿĀlamiyyah, 1st ed., 1430/2009, 7 vols. **Immediate target: volume 4**, containing the Khaybar cluster around hadith 4510–4512. A secondary Muḥyī al-Dīn ʿAbd al-Ḥamīd volume 1 is already verified as SRC-HAD-ABD-E02.
-5. **Ibn Hishām, al-Sīrah al-Nabawiyyah** — ed. Muṣṭafā al-Saqqā, Ibrāhīm al-Abyārī, ʿAbd al-Ḥafīẓ Shalabī, Muṣṭafā al-Bābī al-Ḥalabī, 1955.
+4. **Sunan Abī Dāwūd** — ed. Shuʿayb al-Arnaʾūṭ and Muḥammad Kāmil Qarah Ballī, Dār al-Risālah al-ʿĀlamiyyah, 1st ed., 1430/2009. **ONLINE EXACT SET LOCATED. Khaybar target: volume 6**, containing hadith 3855–4595 and therefore 4510–4512. A secondary Muḥyī al-Dīn ʿAbd al-Ḥamīd volume 1 is verified as SRC-HAD-ABD-E02; in that older edition the same hadith cluster falls in volume 4.
+5. **Ibn Hishām, al-Sīrah al-Nabawiyyah** — ed. Muṣṭafā al-Saqqā, Ibrāhīm al-Abyārī, ʿAbd al-Ḥafīẓ Shalabī, Muṣṭafā al-Bābī al-Ḥalabī, 1955. **ONLINE EXACT SCAN VERIFIED.**
 6. **al-Wāqidī, Kitāb al-Maghāzī** — ed. Marsden Jones, Oxford University Press, 1966, 3 vols.
 7. **Ibn Saʿd, al-Ṭabaqāt al-Kubrā** — ed. Muḥammad ʿAbd al-Qādir ʿAṭā, Dār al-Kutub al-ʿIlmiyyah, 1990–1991.
-8. **al-Ṭabarī, Tārīkh al-rusul wa-l-mulūk** — ed. Muḥammad Abū al-Faḍl Ibrāhīm, Dār al-Maʿārif, 2nd ed., 1967–.
+8. **al-Ṭabarī, Tārīkh al-rusul wa-l-mulūk** — ed. Muḥammad Abū al-Faḍl Ibrāhīm, Dār al-Maʿārif, 2nd ed., 1967–. **ONLINE EXACT SCAN VERIFIED.**
 
 ### Still to edition-lock
 - al-Balādhurī — relevant volumes of Ansāb al-Ashrāf and/or Futūḥ al-Buldān.
-- al-Bayhaqī — Dalāʾil al-Nubuwwah.
-- early tafsīr corpora relevant to Qurʾān 8:30, 5:67, and any other assassination-linked verses.
+- al-Bayhaqī — Dalāʾil al-Nubuwwah, ed. ʿAbd al-Muʿṭī Qalʿajī, 1408/1988, 7 vols. **ONLINE EXACT SCAN LOCATED.**
+- early tafsīr corpora relevant to Qurʾān 8:30, 5:67, and any other assassination-linked verses. **al-Ṭabarī/Shākir and Ibn Abī Ḥātim/al-Ṭayyib exact scans located; al-Wāḥidī asbāb source located.**
 - rijāl / narrator-criticism works needed for disputed chains.
 
 ## P1
