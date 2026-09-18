@@ -2,7 +2,7 @@
 
 ## Status
 **Provisional source audit completed — 2026-09-18.**
-Exact-edition lock and full narrator-by-narrator isnād audit are still pending.
+Exact-edition locking is underway; Aḥmad 2784 is now verified directly from SRC-HAD-AHM-E01 vol. 5, p. 6. Full narrator-by-narrator isnād audit remains pending.
 
 ## Research question
 What is the strongest historically supportable reconstruction of the Khaybar poisoning, and does it meet the project's definition of an assassination attempt?
@@ -60,8 +60,12 @@ Core content:
 Ibn ʿAbbās → ʿIkrimah → Hilāl b. Khabbāb → ʿAbbād b. al-ʿAwwām.
 
 Preserved in:
-- Musnad Aḥmad 2784/2785 numbering variants by edition
+- Musnad Aḥmad **2784** in the verified project edition (SRC-HAD-AHM-E01, vol. 5, p. 6)
 - Ibn Saʿd, al-Ṭabaqāt (parallel form)
+
+Verified editorial judgment for Aḥmad 2784:
+- report: **ṣaḥīḥ li-ghayrihi**
+- this specific isnād: **ḥasan**
 
 Core content:
 - Jewish woman;
