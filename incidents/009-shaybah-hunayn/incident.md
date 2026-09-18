@@ -1,50 +1,17 @@
-# INC-009 — Shaybah ibn ʿUthmān at Ḥunayn
+# INC-009 — Shaybah b. ʿUthmān at Ḥunayn
 
-## Status
-Unreviewed.
+## Provisional conclusion
+Ibn Isḥāq preserves a first-person-style report in which Shaybah says that at Ḥunayn he sought revenge and intended to kill Muhammad. Later fuller versions survive through al-Bayhaqī and others.
 
-## Research question
-What is the strongest historically supportable reconstruction of this incident, and does it meet the project's definition of an assassination attempt?
-
-## Core propositions
-_To be decomposed into atomic Claim IDs after primary-source collection._
-
-## Primary evidence
-_Not yet entered._
-
-## Transmission families
-_Not yet mapped._
-
-## Variants
-_Not yet entered._
-
-## Contradictions / counter-evidence
-_Not yet entered._
-
-## Chronology and context
-_Not yet entered._
+However, the detailed hadith route through Abū Bakr al-Hudhalī is weak; al-Dhahabī calls the fuller form very strange, and al-Haythamī identifies Abū Bakr al-Hudhalī as weak.
 
 ## Classification
-- Direct assault:
-- Assassination conspiracy:
-- Attempted assassination:
-- Battlefield action:
-- General persecution:
-- Duplicate/misclassified:
-- Undetermined: yes
+- Reported intent to kill at Ḥunayn: **H4/H5**
+- Overt armed approach: **H5**
+- Fully dramatized miraculous version: **H6**
 
-## Grading
-No provisional grade until source audit.
-
-## Challenge questions
-- What is the earliest recoverable form of the report?
-- Are apparently multiple attestations actually dependent?
-- What details appear only in later expansions?
-- Is murderous intent explicit, inferred, or absent?
-- Is there a plausible non-assassination classification?
-- Does any stronger evidence contradict the report?
-- Are chronology/geography/person-identifications stable?
-- What would cause us to downgrade or reject this incident?
+## Boundary issue
+This occurs during an open battle. Even if historical, it is better classified as a **battlefield assassination-like attempt** rather than a classic covert assassination.
 
 ## Narrative permission
-Not assigned.
+NP-3.
