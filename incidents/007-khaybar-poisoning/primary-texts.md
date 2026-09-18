@@ -58,25 +58,34 @@ Editorial judgment in the verified edition:
 This replaces the earlier provisional web-only description.
 
 ## P-007-05 — Sunan Abī Dāwūd 4510
+**Preferred edition located online:** SRC-HAD-ABD-E01, Arnaʾūṭ/Qarah Ballī, 1430/2009; volume 6 in this edition set.
+
 Reported Jābir/al-Zuhrī route.
-Function:
-Khaybar location, foreleg, companions eating, interrogation, pardon, deaths/cupping.
-
-Caution:
-chain criticized as disconnected.
-
-Digital witness:
-https://sunnah.com/abudawud/41/17-21
-
-## P-007-06 — Sunan Abī Dāwūd 4511-4512 family
-Abū Salamah / Muḥammad b. ʿAmr routes, with mursal and connected variants elsewhere.
 
 Function:
-Bishr death + later execution + final-illness wording.
+Khaybar location, foreleg, companions eating, interrogation, pardon, death of at least one eater, cupping.
 
-Digital witnesses:
-https://sunnah.com/abudawud:4511
-https://sunnah.com/abudawud/41/19
+Verified modern edition judgment:
+- Shuʿayb al-Arnaʾūṭ: **ṣaḥīḥ li-ghayrihi**.
+
+Important distinction:
+the route has a chain-specific continuity concern discussed in hadith criticism, while the **report-level** judgment is strengthened through corroboration. The project will preserve both facts rather than flattening them into one label.
+
+## P-007-06 — Sunan Abī Dāwūd 4511 family
+**Preferred edition located online:** SRC-HAD-ABD-E01, Arnaʾūṭ/Qarah Ballī, 1430/2009; volume 6 in this edition set.
+
+Abū Salamah / Muḥammad b. ʿAmr family, with mursal and connected variants elsewhere.
+
+Function:
+- Bishr b. al-Barāʾ's death;
+- later execution of the woman in this form;
+- final-illness wording in associated variants.
+
+Verified modern edition judgment:
+- Shuʿayb al-Arnaʾūṭ: **ṣaḥīḥ li-ghayrihi** for 4511.
+
+Numbering caution:
+Abū Dāwūd 4512 in this edition is a separate Abū Hurayrah report on accepting gifts and not eating charity. Some online databases attach poisoning-expanded material under compound labels such as “4512/2”; the project will cite the underlying Abū Dāwūd report number explicitly and avoid collapsing database sub-numbering into the printed edition.
 
 ## P-007-07 — Ibn Hishām preserving Ibn Isḥāq
 Key Arabic begins:
