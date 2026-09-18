@@ -1,50 +1,21 @@
 # INC-001 — ʿUqbah ibn Abī Muʿayṭ strangling assault
 
-## Status
-Unreviewed.
-
-## Research question
-What is the strongest historically supportable reconstruction of this incident, and does it meet the project's definition of an assassination attempt?
-
-## Core propositions
-_To be decomposed into atomic Claim IDs after primary-source collection._
-
-## Primary evidence
-_Not yet entered._
-
-## Transmission families
-_Not yet mapped._
-
-## Variants
-_Not yet entered._
-
-## Contradictions / counter-evidence
-_Not yet entered._
-
-## Chronology and context
-_Not yet entered._
+## Provisional conclusion
+The assault itself is exceptionally well attested in Ṣaḥīḥ al-Bukhārī 3678 through ʿAbd Allāh b. ʿAmr: ʿUqbah put his garment around Muhammad's neck and **strangled him severely** until Abū Bakr intervened.
 
 ## Classification
-- Direct assault:
-- Assassination conspiracy:
-- Attempted assassination:
-- Battlefield action:
-- General persecution:
-- Duplicate/misclassified:
-- Undetermined: yes
+- Direct potentially lethal assault: **yes — H1**
+- Premeditated assassination attempt: **open / H4**
+- General persecution: yes, contextual
+- Narrative permission: event NP-1; murderous intent NP-3
 
-## Grading
-No provisional grade until source audit.
+## Why the classification is cautious
+The physical act is explicit and potentially lethal. Abū Bakr's rebuke uses the language, “Would you kill a man because he says, ‘My Lord is Allah’?” But the report does not independently state that ʿUqbah had arrived with a preformed assassination plan rather than escalating a violent assault.
 
-## Challenge questions
-- What is the earliest recoverable form of the report?
-- Are apparently multiple attestations actually dependent?
-- What details appear only in later expansions?
-- Is murderous intent explicit, inferred, or absent?
-- Is there a plausible non-assassination classification?
-- Does any stronger evidence contradict the report?
-- Are chronology/geography/person-identifications stable?
-- What would cause us to downgrade or reject this incident?
+## Core claim grades
+- ʿUqbah violently strangled Muhammad while he prayed: **H1**
+- Abū Bakr intervened and stopped the assault: **H1**
+- The act was intended from the outset as assassination: **H4/open**
 
-## Narrative permission
-Not assigned.
+## Primary anchor
+Ṣaḥīḥ al-Bukhārī 3678.
