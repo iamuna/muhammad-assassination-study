@@ -14,7 +14,7 @@ Please obtain **lawfully accessible scans/PDFs of these exact editions when poss
 1. **Ṣaḥīḥ al-Bukhārī** — ed. Muḥammad Zuhayr b. Nāṣir al-Nāṣir, Dār Ṭawq al-Najāh, 1st ed., 1422 AH, 9 vols.
 2. **Ṣaḥīḥ Muslim** — ed. Muḥammad Fuʾād ʿAbd al-Bāqī, Dār Iḥyāʾ al-Turāth al-ʿArabī, Beirut, 5 vols.
 3. **Musnad Aḥmad** — ed. Shuʿayb al-Arnaʾūṭ, ʿĀdil Murshid et al., supervision ʿAbd Allāh al-Turkī, Muʾassasat al-Risālah, 1st ed., 1421/2001.
-4. **Sunan Abī Dāwūd** — ed. Shuʿayb al-Arnaʾūṭ and Muḥammad Kāmil Qarah Ballī, Dār al-Risālah al-ʿĀlamiyyah, 1st ed., 1430/2009, 7 vols.
+4. **Sunan Abī Dāwūd** — ed. Shuʿayb al-Arnaʾūṭ and Muḥammad Kāmil Qarah Ballī, Dār al-Risālah al-ʿĀlamiyyah, 1st ed., 1430/2009, 7 vols. **Immediate target: volume 4**, containing the Khaybar cluster around hadith 4510–4512. A secondary Muḥyī al-Dīn ʿAbd al-Ḥamīd volume 1 is already verified as SRC-HAD-ABD-E02.
 5. **Ibn Hishām, al-Sīrah al-Nabawiyyah** — ed. Muṣṭafā al-Saqqā, Ibrāhīm al-Abyārī, ʿAbd al-Ḥafīẓ Shalabī, Muṣṭafā al-Bābī al-Ḥalabī, 1955.
 6. **al-Wāqidī, Kitāb al-Maghāzī** — ed. Marsden Jones, Oxford University Press, 1966, 3 vols.
 7. **Ibn Saʿd, al-Ṭabaqāt al-Kubrā** — ed. Muḥammad ʿAbd al-Qādir ʿAṭā, Dār al-Kutub al-ʿIlmiyyah, 1990–1991.
