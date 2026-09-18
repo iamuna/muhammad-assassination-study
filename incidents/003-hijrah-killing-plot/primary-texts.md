@@ -114,8 +114,10 @@ Route:
 Edition note:
 In the Arnaʾūṭ edition this report is at vol. 5, p. 301.
 
-Modern editorial judgment:
-**isnād weak**, with the criticism centered on ʿUthmān al-Jazarī.
+Modern editorial judgment, verified directly from the user-supplied SRC-HAD-AHM-E01 volume 5, printed p. 301:
+`إسناده ضعيف، عثمان الجزري، ويقال له عثمان المشاهد`
+
+The isnād is graded **weak**, with the criticism centered on ʿUthmān al-Jazarī.
 
 Historical use:
 May corroborate the existence of a circulating early narrative, but its weaker details cannot be promoted to NP-1 solely from this chain.
