@@ -1,50 +1,17 @@
-# INC-012 — Alleged hired assassin connected with Abū Sufyān
+# INC-012 — Alleged assassin sent by Abū Sufyān
 
-## Status
-Unreviewed.
+## Provisional conclusion
+Later maghāzī material preserved by al-Bayhaqī through al-Wāqidī says Abū Sufyān sent a man to kill Muhammad secretly, the man was exposed, and he converted. The same narrative frames Muhammad's retaliatory mission against Abū Sufyān.
 
-## Research question
-What is the strongest historically supportable reconstruction of this incident, and does it meet the project's definition of an assassination attempt?
-
-## Core propositions
-_To be decomposed into atomic Claim IDs after primary-source collection._
-
-## Primary evidence
-_Not yet entered._
-
-## Transmission families
-_Not yet mapped._
-
-## Variants
-_Not yet entered._
-
-## Contradictions / counter-evidence
-_Not yet entered._
-
-## Chronology and context
-_Not yet entered._
+Hadith critics explicitly flag the chain: the preserved Bayhaqī route is disconnected and passes through al-Wāqidī, whose hadith standing is extremely weak.
 
 ## Classification
-- Direct assault:
-- Assassination conspiracy:
-- Attempted assassination:
-- Battlefield action:
-- General persecution:
-- Duplicate/misclassified:
-- Undetermined: yes
-
-## Grading
-No provisional grade until source audit.
-
-## Challenge questions
-- What is the earliest recoverable form of the report?
-- Are apparently multiple attestations actually dependent?
-- What details appear only in later expansions?
-- Is murderous intent explicit, inferred, or absent?
-- Is there a plausible non-assassination classification?
-- Does any stronger evidence contradict the report?
-- Are chronology/geography/person-identifications stable?
-- What would cause us to downgrade or reject this incident?
+- Historical assassination attempt: **H7**
+- Source-book discussion: yes
+- Narrative-book direct assertion: no
 
 ## Narrative permission
-Not assigned.
+NP-4/5. Mention only in a chapter on disputed/rejected reports.
+
+## Research value
+This is an important example of why “appears in a classical book” is not enough. The project records it but does not count it as a secure attempt.
