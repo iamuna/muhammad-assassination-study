@@ -36,13 +36,26 @@ Digital witnesses:
 https://sunnah.com/bukhari/58/11
 https://sunnah.com/bukhari/76/89
 
-## P-007-04 — Musnad Aḥmad 2784/2785 family
-Route: Ibn ʿAbbās → ʿIkrimah → Hilāl b. Khabbāb → ʿAbbād b. al-ʿAwwām.
-Key content:
-Jewish woman + poisoned sheep + motive + recurrent effects.
+## P-007-04 — Musnad Aḥmad 2784
+**Exact edition verified:** SRC-HAD-AHM-E01, vol. 5, p. 6.
 
-Provisional digital witness:
-https://dorar.net/h/Elw8Jhez
+Route in the verified copy:
+Aḥmad → Shurayḥ → ʿAbbād → Hilāl → ʿIkrimah → Ibn ʿAbbās.
+
+Key Arabic:
+`أَنَّ امْرَأَةً مِنَ الْيَهُودِ أَهْدَتْ لِرَسُولِ اللهِ ﷺ شَاةً مَسْمُومَةً`
+
+Motive wording:
+`أَحْبَبْتُ، أَوْ أَرَدْتُ إِنْ كُنْتَ نَبِيًّا لَمْ يَضُرَّكَ، وَإِنْ لَمْ تَكُنْ نَبِيًّا أَرَحْنَا النَّاسَ مِنْكَ`
+
+Function:
+Jewish woman + poisoned sheep + hostile/elimination intent + recurrent effects/cupping.
+
+Editorial judgment in the verified edition:
+`صحيح لغيره، وهذا إسناد حسن`
+— **ṣaḥīḥ li-ghayrihi; this isnād is ḥasan.**
+
+This replaces the earlier provisional web-only description.
 
 ## P-007-05 — Sunan Abī Dāwūd 4510
 Reported Jābir/al-Zuhrī route.
