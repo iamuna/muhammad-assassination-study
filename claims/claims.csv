@@ -1,0 +1,1 @@
+claim_id,incident_id,claim_text,claim_type,scope,source_ids,edition_ids,explicit_or_inferred,transmission_family,SP,II,MI,CO,IN,VS,CF,GR,AR,PL,RR,EC,weighted_score,confidence_class,modifiers,narrative_permission,status,decision_log_ref
