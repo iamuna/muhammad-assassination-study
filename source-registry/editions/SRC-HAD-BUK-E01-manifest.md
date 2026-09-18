@@ -7,7 +7,7 @@
 - Publisher: Dār Ṭawq al-Najāh
 - Edition: first
 - Date: 1422 AH
-- Status: **EDITION-VERIFIED-PARTIAL-SET**
+- Status: **EDITION-VERIFIED-VOLS1-8**
 
 The exact edition identity was verified from the user-supplied title page and front matter.
 
@@ -22,6 +22,10 @@ The exact edition identity was verified from the user-supplied title page and fr
   SHA-256: `1c2fdc4881f06f93a12a14c48d1233cd273d35aa84997b9857d10287a517b4a3`
 
 ### Main text components
+- `01_54495(1).pdf` — opening main-text component, covering the beginning of the work through hadith 875 — 189 pages  
+  SHA-256: `8e8625d540e425b9b6264320dea83168490cfeb2a8c2bd99dfed8a53e638a1cf`
+- `00_54495.pdf` — cover image for the Dār Ṭawq al-Najāh edition — 1 page  
+  SHA-256: `c086e25bf230ccfa25c9dcad4ecd480785c05395682bb84148cd319d85625206`
 - `02_54496.pdf` — coverage metadata: books 11–25, hadith 876–1772 — 197 pages  
   SHA-256: `d2515bafcd12ecc9464d37c71984ff2e36fffe72a6fb917c5007797687389911`
 - `03_54504.pdf` — coverage metadata: books 26–54, hadith 1773–2737 — 218 pages  
@@ -37,8 +41,8 @@ The exact edition identity was verified from the user-supplied title page and fr
 - `08_54507.pdf` — coverage metadata: books 78–86, hadith 5970–6860 — 189 pages  
   SHA-256: `ca05f42b866ce9dc27a9ca778ee96c414b6a30a1d5548a34c986e50e92f400d0`
 
-## Missing from this upload batch
-The main-text component covering the beginning of the work through hadith 875 has not yet been supplied in this edition set.
+## Remaining gap
+The exact Dār Ṭawq al-Najāh **volume 9** has not yet been supplied. Volumes 1–8 are now represented by verified user copies.
 
 ## Relationship to SRC-HAD-BUK-E03
 The previously supplied Būlāq volume 9 (SRC-HAD-BUK-E03) covers approximately hadith 6861–7563. It can be used as a historical textual-control witness, but it is not silently merged bibliographically into E01.
