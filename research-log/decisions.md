@@ -40,3 +40,15 @@ All meaningful methodological changes, regradings, incident merges/splits, and n
 - Adversarial result: SPLIT
 - Confidence: provisional pending exact-edition and full isnād audit
 - Files affected: incidents/007-khaybar-poisoning/*; claims/claims.csv
+
+
+### DEC-2026-003
+- Date: 2026-09-18
+- Claim/Incident: INC-007 — Ibn ʿAbbās / Aḥmad 2784 transmission
+- Previous position: provisional web witness; earlier shorthand described al-Arnaʾūṭ as grading the isnād ṣaḥīḥ
+- New position: exact project copy verified at SRC-HAD-AHM-E01, vol. 5, p. 6
+- Evidence that caused the change: user-supplied Muʾassasat al-Risālah volume 5
+- Exact editorial judgment: `صحيح لغيره، وهذا إسناد حسن`
+- Decision: record the report as ṣaḥīḥ li-ghayrihi while preserving that this specific isnād is ḥasan; remove the inaccurate “isnād ṣaḥīḥ” shorthand
+- Confidence: edition-verification high; broader historical grade remains provisional
+- Files affected: source-registry/*; incidents/007-khaybar-poisoning/*
