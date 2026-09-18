@@ -1,50 +1,17 @@
-# INC-008 — Fuḍālah ibn ʿUmayr report
+# INC-008 — Fuḍālah b. ʿUmayr at the Kaʿbah
 
-## Status
-Unreviewed.
+## Provisional conclusion
+Ibn Hishām says, on the authority of **“some people of knowledge”**, that Fuḍālah b. ʿUmayr intended to kill Muhammad while he was circumambulating the Kaʿbah in the year of the Conquest. Muhammad addressed him, questioned what he had been thinking, and the report ends with Fuḍālah's change of heart.
 
-## Research question
-What is the strongest historically supportable reconstruction of this incident, and does it meet the project's definition of an assassination attempt?
-
-## Core propositions
-_To be decomposed into atomic Claim IDs after primary-source collection._
-
-## Primary evidence
-_Not yet entered._
-
-## Transmission families
-_Not yet mapped._
-
-## Variants
-_Not yet entered._
-
-## Contradictions / counter-evidence
-_Not yet entered._
-
-## Chronology and context
-_Not yet entered._
+The report is famous but its attribution is anonymous at the point preserved by Ibn Hishām.
 
 ## Classification
-- Direct assault:
-- Assassination conspiracy:
-- Attempted assassination:
-- Battlefield action:
-- General persecution:
-- Duplicate/misclassified:
-- Undetermined: yes
-
-## Grading
-No provisional grade until source audit.
-
-## Challenge questions
-- What is the earliest recoverable form of the report?
-- Are apparently multiple attestations actually dependent?
-- What details appear only in later expansions?
-- Is murderous intent explicit, inferred, or absent?
-- Is there a plausible non-assassination classification?
-- Does any stronger evidence contradict the report?
-- Are chronology/geography/person-identifications stable?
-- What would cause us to downgrade or reject this incident?
+- Reported assassination intent: **H6**
+- Overt approach toward target: **H6**
+- Historical usability: attributed narrative only
 
 ## Narrative permission
-Not assigned.
+NP-3/4. It may be told as a transmitted report, not stated as one of the secure attempts.
+
+## Primary anchor
+Ibn Hishām: `حدثني بعض أهل العلم`.
