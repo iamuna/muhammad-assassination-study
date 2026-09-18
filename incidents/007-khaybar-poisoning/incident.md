@@ -82,14 +82,23 @@ Jābir b. ʿAbd Allāh → al-Zuhrī → Yūnus → Ibn Wahb.
 Preserved in:
 - Sunan Abī Dāwūd 4510
 
+Preferred edition status:
+- SRC-HAD-ABD-E01 located online;
+- 4510 is in volume 6 of the Arnaʾūṭ/Qarah Ballī edition;
+- Arnaʾūṭ grades the report **ṣaḥīḥ li-ghayrihi**.
+
 Caution:
 - this route has been criticized as disconnected because al-Zuhrī's direct hearing from Jābir is disputed/denied in hadith criticism;
-- it should not be weighted like the strongest connected families without further audit.
+- report-level corroborative grading and chain-specific continuity are therefore kept as separate analytical fields.
 
 ### E — Abū Salamah / Muḥammad b. ʿAmr family
 Variants occur as:
-- mursal Abū Salamah material in Abū Dāwūd 4511/4512;
+- mursal Abū Salamah material in Abū Dāwūd 4511;
 - connected Abū Salamah → Abū Hurayrah forms in later preserved routes such as al-Ṭabarānī/al-Ḥākim.
+
+Preferred edition note:
+- Arnaʾūṭ grades Abū Dāwūd 4511 **ṣaḥīḥ li-ghayrihi**.
+- Abū Dāwūd 4512 is a separate Abū Hurayrah gift/charity report; online compound numbering must not be mistaken for the printed poisoning report number.
 
 This family is central to:
 - Bishr b. al-Barāʾ's death;
