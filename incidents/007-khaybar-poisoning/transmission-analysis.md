@@ -31,12 +31,14 @@ JĀBIR b. ʿABD ALLĀH
     └── Yūnus
         └── Ibn Wahb
             └── Abū Dāwūd 4510
-                CAUTION: possible disconnection (al-Zuhrī ← Jābir)
+                CHAIN CAUTION: possible disconnection (al-Zuhrī ← Jābir)
+                REPORT-LEVEL EDITION JUDGMENT: ṣaḥīḥ li-ghayrihi (Arnaʾūṭ)
 
 ABŪ SALAMAH
 ├── mursal route
 │   └── Muḥammad b. ʿAmr
-│       └── Abū Dāwūd 4511/4512 forms
+│       └── Abū Dāwūd 4511
+│           REPORT-LEVEL EDITION JUDGMENT: ṣaḥīḥ li-ghayrihi (Arnaʾūṭ)
 └── connected-to-Abū-Hurayrah variants
     └── preserved in al-Ṭabarānī / al-Ḥākim routes
         DETAIL: Bishr death + later execution
