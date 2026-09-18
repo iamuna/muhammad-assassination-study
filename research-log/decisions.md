@@ -54,18 +54,6 @@ All meaningful methodological changes, regradings, incident merges/splits, and n
 - Files affected: source-registry/*; incidents/007-khaybar-poisoning/*
 
 
-### DEC-2026-003
-- Date: 2026-09-18
-- Claim/Incident: INC-007 — Ibn ʿAbbās / Aḥmad 2784 transmission
-- Previous position: provisional web witness; earlier shorthand described al-Arnaʾūṭ as grading the isnad sahih
-- New position: exact project copy verified at SRC-HAD-AHM-E01, vol. 5, p. 6
-- Evidence that caused the change: user-supplied Muʾassasat al-Risālah volume 5
-- Exact editorial judgment: report sahih li-ghayrihi; this isnad hasan
-- Decision: preserve the distinction between report-level and chain-level grading and remove the inaccurate shorthand
-- Confidence: edition-verification high; broader historical grade remains provisional
-- Files affected: source-registry/*; incidents/007-khaybar-poisoning/*
-
-
 ### DEC-2026-004
 - Date: 2026-09-18
 - Claim/Incident: INC-007 — Abū Dāwūd 4510–4512 cluster
@@ -77,3 +65,17 @@ All meaningful methodological changes, regradings, incident merges/splits, and n
 - Decision: preserve chain-specific cautions separately from report-level corroborative grades and use printed-edition numbering in the source book
 - Confidence: high for edition/numbering correction; historical weighting remains provisional
 - Files affected: source-registry/*; source-wishlist.md; incidents/007-khaybar-poisoning/*
+
+
+### DEC-2026-005
+- Date: 2026-09-18
+- Claim/Incident: INC-003 — Quraysh killing plot before the Hijrah
+- Previous position: unreviewed incident treated as one famous narrative
+- New position: split into an H1 assassination-conspiracy core and an H3 provisional attempted-assassination execution stage
+- Evidence that caused the change: Q 8:30; early tafsīr glosses; Ibn Isḥāq/Ibn Hishām; Miqsam/Ibn ʿAbbās; Qatādah; ʿUrwa-related Hijrah material
+- Critical counter-evidence: Aḥmad 3251 / Miqsam route is graded weak by Shuʿayb al-Arnaʾūṭ because of ʿUthmān al-Jazarī; some scene details therefore cannot inherit the verse's high confidence
+- Competing interpretation: treat the full Dār al-Nadwah story, house watch, cave pursuit and spider-web episode as one equally authenticated event
+- Decision: reject whole-story grading; retain H1 for the killing-plot core, lower grades for Dār al-Nadwah mechanics, ʿAlī/house-watch details, and H6 for the spider-web and verbatim-speech claims
+- Adversarial result: SPLIT
+- Confidence: high for conspiracy core; provisional for execution-stage reconstruction
+- Files affected: incidents/003-hijrah-killing-plot/*; claims/claims.csv
