@@ -43,3 +43,31 @@ Project rule: do not paraphrase this as “al-Arnaʾūṭ graded this isnād ṣ
 
 ## Research consequence
 This remains a distinct Ibn ʿAbbās/ʿIkrimah transmission family. Its evidentiary use must preserve the distinction between the report-level judgment and the chain-level judgment.
+
+
+## Hijrah locus
+### Hadith 3251
+Printed page: 301  
+User-supplied scan directly inspected.
+
+Route:
+Aḥmad → ʿAbd al-Razzāq → Maʿmar → ʿUthmān al-Jazarī → Miqsam → Ibn ʿAbbās.
+
+Content relevant to INC-003:
+- Quraysh debates restraint, killing, or expulsion;
+- ʿAlī occupies Muhammad's sleeping place;
+- hostile watchers mistake ʿAlī for Muhammad;
+- Muhammad reaches the cave;
+- pursuit and spider-web detail follow.
+
+### Exact editorial judgment
+The printed footnote begins:
+`إسناده ضعيف، عثمان الجزري، ويقال له عثمان المشاهد`
+
+Translation:
+**“Its isnād is weak; [because of] ʿUthmān al-Jazarī, also called ʿUthmān al-Mushāhid.”**
+
+The note then cites Aḥmad's criticism that ʿUthmān narrated objectionable reports and that his book was said to have been lost.
+
+Research consequence:
+This exact project copy confirms the weakness judgment directly; no web intermediary is needed for the edition-level claim.
