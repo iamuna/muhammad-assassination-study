@@ -64,3 +64,16 @@ All meaningful methodological changes, regradings, incident merges/splits, and n
 - Decision: preserve the distinction between report-level and chain-level grading and remove the inaccurate shorthand
 - Confidence: edition-verification high; broader historical grade remains provisional
 - Files affected: source-registry/*; incidents/007-khaybar-poisoning/*
+
+
+### DEC-2026-004
+- Date: 2026-09-18
+- Claim/Incident: INC-007 — Abū Dāwūd 4510–4512 cluster
+- Previous position: preferred edition pending; volume target incorrectly listed as volume 4; 4511/4512 poisoning forms were loosely grouped
+- New position: exact Arnaʾūṭ/Qarah Ballī 1430/2009 online set located; 4510–4512 fall in volume 6 of this edition
+- Evidence that caused the change: Waqfeya volume-range metadata and Arnaʾūṭ takhrīj records
+- Edition judgments: 4510 (Jābir) = ṣaḥīḥ li-ghayrihi; 4511 (Abū Salamah family) = ṣaḥīḥ li-ghayrihi
+- Numbering clarification: printed 4512 is a separate Abū Hurayrah gift/charity report; some online databases use compound labels that can misleadingly attach poisoning expansions to “4512/2”
+- Decision: preserve chain-specific cautions separately from report-level corroborative grades and use printed-edition numbering in the source book
+- Confidence: high for edition/numbering correction; historical weighting remains provisional
+- Files affected: source-registry/*; source-wishlist.md; incidents/007-khaybar-poisoning/*
